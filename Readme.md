@@ -48,7 +48,7 @@ The application classifies tickets into the following categories:
 ![Dashboard](dashboad.png)
 
 
-    ```bash
+    ```
     streamlit run ticket-supportdash.py
     ```
  **Access the app:**
